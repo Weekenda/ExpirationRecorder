@@ -1,0 +1,2 @@
+# ExpirationRecorder
+ExpirationRecorder项目是一个开源的食品保质期管理工具，帮助用户追踪食品保质期，减少食物浪费。
